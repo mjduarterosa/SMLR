@@ -1,7 +1,7 @@
 function [Pall,lams_used,acc_fold,wsmlr_used,log_params1,log_params2,opt] = smlr_nested_leaveoneout_cv(X,Y,opt)
 
 % -------------------------------------------------------------------------
-% SMLR - LOO Nested CV
+% Sparse Multinomial Logistic Regression - LOO Nested CV
 %
 % M. J. Rosa, Centre for Neuroimaging Sciences, King's College London
 % Based on toolbox by A. Marquand
