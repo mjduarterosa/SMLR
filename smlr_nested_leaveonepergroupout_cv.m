@@ -1,7 +1,7 @@
 function [Pall,P,lams_used,acc_fold,wsmlr_used,log_params1,log_params2,opt] = smlr_nested_leaveonepergroupout_cv(X,Y,opt)
 
 % -------------------------------------------------------------------------
-% SMLR - LOSGO Nested CV
+% Sparse Multinomial Logistic Regression - LOSGO Nested CV
 %
 % M. J. Rosa, Centre for Neuroimaging Sciences, King's College London
 % Based on toolbox by A. Marquand
